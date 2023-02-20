@@ -6,7 +6,7 @@ def calculateAbsolute():
         in_dif = (in_num -21)*2
     else:
         in_dif = 21 - in_num
-    print(in_dif)    
+    print(f"Result: {in_dif}")    
 
 
 
